@@ -41,8 +41,8 @@ Grocery List: Students can view a history of all of their past expenses, who has
 ##### Phase 1:
 ###### Software + Onboarding <b> (Weeks 0-4) </b>
 <ul>
-Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
-Explaining the scope of the project to the team to align effort and vision. 
+--**Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
+--**Explaining the scope of the project to the team to align effort and vision. 
 Answer any questions regarding the scope of the project and being receptive to changes to the scope.
 </ul>
 
