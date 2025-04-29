@@ -1,4 +1,4 @@
-Shivam Patel, IS 340 Spring 20245, Link to personal website: https://www.linkedin.com/in/shivam-patel-13622b238/
+Shivam Patel, IS 340 Spring 2025, Link to personal website: https://www.linkedin.com/in/shivam-patel-13622b238/
 
 
 ## Introduction - CartSync
