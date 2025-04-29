@@ -24,7 +24,7 @@ Grocery List: Students can view a history of all of their past expenses, who has
 <b> College Students: </b> This app will cater to students between the ages of 18-24. These students will also have at least 2-3 roommates and are looking for a more hassle free, intuitive way to manage collaborative expenses.  
 
 #### Organization Workflow
-| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpeg) | 
+| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpg) | 
 | :--: |
 | <b>Figure 1.</b> Image of a product workflow from research to production. |   
 
