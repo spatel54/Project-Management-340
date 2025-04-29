@@ -1,13 +1,15 @@
 Shivam Patel, IS 340 Spring 20245, Link to personal website: https://www.figma.com/proto/vX3F4YvWT8HtO8wexmm4P5/Shivam-Patel's-Portfolio-V2?page-id=0%3A1&type=design&node-id=1-3170&viewport=-748%2C879%2C0.09&t=159LykIwYxWxR3BT-8&scaling=scale-down-width&starting-point-node-id=1%3A3170&disable-default-keyboard-nav=1&hide-ui=1.
 
 
-### Introduction
+## Introduction - CartSync
 
-#### Background
+### Background
 
 College students living together often struggle to coordinate grocery shopping, leading to overbuying some items and forgetting others, resulting in frustration and extra costs. Students are juggling numerous responsibilities, from academics to extracurricular commitments, leaving them little time to worry about splitting expenses. There are apps that allow students to split expenses, but some features are either behind a paywall, require an ad to proceed further, or the features are too basic. As a student myself, I have personally tried out these apps but I find myself switching between apps to be able to manage my expenses. I forget about expenses that I am supposed to pay for and I have a hard time managing my budget due to the lack of understanding of my personal expenses. This has led to conflicts with my roommates and has strained our relationships at times. Therefore, I am proposing a college expense splitter app called CartSync that is free and leverages AI with a user-centric design made for college students. 
 
-#### Purpose
+---
+
+### Purpose
 The purpose of CartSync is to provide an intuitive and satisfying solution for collaborative expense management. Students can easily create a group with others and be able to log expenses within their respective group. CartSync allows students to view their fair share of expenses quickly with pay these expenses with the tap of a button. CartSync also bridges the gap between budget and expense management. Students can view real time changes to their budget as expenses are posted.  Real-time notifications are enabled to notify students when they are paid or when an expense is posted by someone. By automating mundane tasks such as pantry inventory management, grocery shopping list creation, and expense management, CartSync helps students focus their time and energy on tasks that are more important. CartSync takes the hassle out of collaborative expense management while helping students stay on top of their budget, preventing unnecessary frustration between roommates. Some core features include:
 <ul>
 Expense Logging: Add expenses either through photos or the add expense button
@@ -17,11 +19,19 @@ Shopping List: Students can view an entire group's shopping list. It is easy to 
 Grocery List: Students can view a history of all of their past expenses, who has paid them, and any remaining expenses all in one place. 
 </ul>
 
+---
 <em> Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students. </em>
+---
 
 #### Target Audience
 <b> College Students: </b> This app will cater to students between the ages of 18-24. These students will also have at least 2-3 roommates and are looking for a more hassle free, intuitive way to manage collaborative expenses.  
 
+---
+
+#### Organization Workflow
+| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpg) | 
+| :--: |
+| <b>Figure 1.</b> Image of a product workflow from research to production. |   
 
 #### Organization Workflow with timeline
 [Comment_3]: <> (begin your text here)
@@ -30,22 +40,17 @@ Grocery List: Students can view a history of all of their past expenses, who has
 | :--: |
 | <b>Figure 1.</b> Image of a product workflow from research to production with timeline. |   
 
-
-#### Organization Workflow
-| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Image of a product workflow from research to production. |   
-
-
+---
 
 ##### Phase 1:
 ###### Software + Onboarding <b> (Weeks 0-4) </b>
 <ul>
---**Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
---**Explaining the scope of the project to the team to align effort and vision. 
+--Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
+--Explaining the scope of the project to the team to align effort and vision. 
 Answer any questions regarding the scope of the project and being receptive to changes to the scope.
 </ul>
 
+---
 
 ##### Phase 2:
 ###### User Research<b> (Weeks 4-9) </b>
@@ -54,6 +59,8 @@ Conduct surveys and user interviews to gather feedback about potential features 
 Perform a competitive analysis and gap analysis to understand the current market and how our app can stand out.
 </ul>
 
+---
+
 ##### Phase 3:
 ###### Design<b> (Weeks 9-12) </b>
 <ul>
@@ -61,9 +68,11 @@ Ideate and narrow down potential solutions based on user feedback.
 Create an information architecture diagram that combines the brainstormed features into a cohesive user flow.
 Start sketching screens to provide a visual representation of the design.
 Work on designing low-fidelity wireframes to understand placement, sizing, and positioning of design elements. 
-    No color or stylistic elements are needed at this stage. 
-    Sole purpose is to maintain clarity in user flow and allow ability to easily change designs without undertaking intensive revisions.
+    -No color or stylistic elements are needed at this stage. 
+    -Sole purpose is to maintain clarity in user flow and allow ability to easily change designs without undertaking intensive revisions.
 </ul>
+
+---
 
 ##### Phase 4:
 ###### User Testing<b> (Weeks 12-15) </b>
@@ -72,6 +81,8 @@ Conduct user tests with at least 10-15 users to gain user behavior and attitude 
 Depending on testing results, revisit the design or research phase and make necessary changes. A/B Testing is another option.
 </ul>
 
+---
+
 ##### Phase 5:
 ###### Front-End Development<b> (Weeks 15-19) </b>
 <ul>
@@ -79,6 +90,8 @@ Review functional requirements with designers to ensure cohesiveness in app func
 Using mobile UI components and frameworks, user interfaces will be developed alongside functionality between screens.
 Conduct testing on a regular basis.
 </ul>
+
+---
 
 ##### Phase 6:
 ###### Back-End Development<b> (Weeks 19-25) </b>
@@ -92,12 +105,16 @@ Deploy AWS cloud to host app.
 Review app with the team and release.
 </ul>
 
+---
+
 ##### Phase 7:
 ###### Beta Testing<b> (Weeks 25-28) </b>
 <ul>
 Release the app to a small group of users (~15 users) and receive quick feedback that can be implemented before launch.
 Create social media account and promotional material to gain traction and reach.
 </ul>
+
+---
 
 ##### Phase 8:
 ###### Back-End Development<b> (Weeks 28-29) </b>
@@ -106,6 +123,8 @@ Create a launch strategy
 Release app on the app store.
 </ul>
 
+---
+
 ##### Phase 9:
 ###### Back-End Development<b> (Weeks 19-25) </b>
 <ul>
@@ -113,6 +132,8 @@ Monitor app KPIS (Key Performance Metrics).
 Monitor user feedback
 Continue to update the app or/and create new features based on feedback and latest trends in the market using PostHog.
 </ul>
+
+---
 
 #### Strategy
 ##### Open-Source
@@ -124,12 +145,18 @@ Nowadays, vibe coding has become an internet phenomenon and I would like to inco
 
 
 #### Feedback Loop
-Engaging in sprints and setting milestones is an important part of the work culture for my team. Leveraging both methods would be useful to this project. According to this article, https://medium.com/@confeurhq/sprints-vs-milestones-6fe700d101f9, sprints can be organized in an arbitrary amount of time. I would choose around 2-3 weeks as mentioned in the article. Since I have already defined time periods for each phase of my workflow map, I would integrate sprints within each phase. For example, in the design phase, the entire phase is 4 weeks. I would split this up into 2 weeks for brainstorming and ideation and 2 weeks for designing and refining. This would be a great way to visualize my team’s WIP (Work in Progress), an indicator of high performing teams. Issues would be created accordingly so the team stays on track and is notified of any potential blockers. In alignment to my workflow, I would define certain tasks that need to be completed and any other task that appears during the sprint is backlogged. By the end of the sprint, there should be a progress update (not necessarily a demo) to show. That may be a Kanban board, a demo (if feasible), slideshow, Github issues, etc.  Forcing my team to produce a working demo at the end of each sprint may lead to technical debt. This can backlog future development cycles, especially towards front end and back end implementation, which results in wasted time, energy, and capital. Another important aspect of the feedback loop are milestones. The article talks about implementing fixed-date milestones, which I would implement to sync work between research and design, design and front-end, and front-end and back-end. Milestones help reduce risk by allocating resources in advance, and setting clear expectations from the beginning. Milestones are a great way to keep sub-teams accountable since work from one team may rely on work from another team. By staying accountable, last minute issues are more likely to be avoided and can be addressed sooner. It is also important to keep milestones and sprints flexible based on urgency and size. Perhaps integrating a buffer period for a sprint or milestone is a potential option to account for any mishaps. I believe that successful milestone planning leads to more productive sprints and successful sprints reinforces optimal milestones. Utilizing sprints and milestones simultaneously but not abusing both helps focus on product over dates and deadlines. 
+Engaging in sprints and setting milestones is an important part of the work culture for my team. Leveraging both methods would be useful to this project. According to this article, https://medium.com/@confeurhq/sprints-vs-milestones-6fe700d101f9, sprints can be organized in an arbitrary amount of time. I would choose around 2-3 weeks as mentioned in the article. Since I have already defined time periods for each phase of my workflow map, I would integrate sprints within each phase. For example, in the design phase, the entire phase is 4 weeks. I would split this up into 2 weeks for brainstorming and ideation and 2 weeks for designing and refining. This would be a great way to visualize my team’s WIP (Work in Progress), an indicator of high performing teams. Issues would be created accordingly so the team stays on track and is notified of any potential blockers. In alignment to my workflow, I would define certain tasks that need to be completed and any other task that appears during the sprint is backlogged. 
 
-Demos are imperative for our team to continue to innovate. A huge chunk of our workflow map is design and research, so the result of those phases culminates into a demo. Demos are important for this project because it allows the team to understand what works and does not work. Whether it be a Figma prototype or a simple implementation, the degree of complexity for a demo is not important. Being able to translate ideas, design, and code into a visual representation allows users to provide valuable feedback to the team. Through quasi-functioning code, alternatives can be created for different target groups. These different alternatives (a form of A/B testing), helps refine future demos and impacts the product development lifecycle. According to Joi’s notion of ‘Demo or Die’ from the MIT Media Lab, demos are the main focus. Intense pressure and stress can arise from creating demos. For our team, when we reach out to investors or users, calls may be scheduled at any time. It is important for my team to realize the true value and significance of demos so they are not overworked and demoralized. As mentioned in the Joi’s 9 Principles of the Media Lab, the ‘Compass over maps’ is one of 9 principles I can use to help the team understand why demos should be created frequently. Rather than over-planning and creating different theories for how certain features of a product may behave, spending time and resources towards trying different solutions is more effective. In the long run, building is cheaper than planning and reduces the guesswork towards a better solution. As Danah mentions in this article, the point of ‘Demo or Die’ is to help “it was to help the visitor change their perspective of the world through the lens of the demo.” Demos are a way of expressing the team’s ideas, attitudes, and perspectives. Demos are not supposed to fit the world view for a user, rather challenge those assumptions and compel them to consider a new avenue. Creating ‘impact’, as Dana mentions is one of the most important outcomes from producing demos. I would encourage my team to change their mindset towards demos. Demos do not lead to success or failure, they lead to perspective and impact. Demos lead to a greater product and shows qualities of an even greater team. 
+By the end of the sprint, there should be a progress update (not necessarily a demo) to show. That may be a Kanban board, a demo (if feasible), slideshow, Github issues, etc.  Forcing my team to produce a working demo at the end of each sprint may lead to technical debt. This can backlog future development cycles, especially towards front end and back end implementation, which results in wasted time, energy, and capital. Another important aspect of the feedback loop are milestones. The article talks about implementing fixed-date milestones, which I would implement to sync work between research and design, design and front-end, and front-end and back-end. Milestones help reduce risk by allocating resources in advance, and setting clear expectations from the beginning. Milestones are a great way to keep sub-teams accountable since work from one team may rely on work from another team. By staying accountable, last minute issues are more likely to be avoided and can be addressed sooner. It is also important to keep milestones and sprints flexible based on urgency and size. Perhaps integrating a buffer period for a sprint or milestone is a potential option to account for any mishaps. I believe that successful milestone planning leads to more productive sprints and successful sprints reinforces optimal milestones. Utilizing sprints and milestones simultaneously but not abusing both helps focus on product over dates and deadlines. 
+
+Demos are imperative for our team to continue to innovate. A huge chunk of our workflow map is design and research, so the result of those phases culminates into a demo. Demos are important for this project because it allows the team to understand what works and does not work. Whether it be a Figma prototype or a simple implementation, the degree of complexity for a demo is not important. Being able to translate ideas, design, and code into a visual representation allows users to provide valuable feedback to the team. Through quasi-functioning code, alternatives can be created for different target groups. These different alternatives (a form of A/B testing), helps refine future demos and impacts the product development lifecycle. According to Joi’s notion of ‘Demo or Die’ from the MIT Media Lab, demos are the main focus. Intense pressure and stress can arise from creating demos. For our team, when we reach out to investors or users, calls may be scheduled at any time. It is important for my team to realize the true value and significance of demos so they are not overworked and demoralized. 
+
+As mentioned in the Joi’s 9 Principles of the Media Lab, the ‘Compass over maps’ is one of 9 principles I can use to help the team understand why demos should be created frequently. Rather than over-planning and creating different theories for how certain features of a product may behave, spending time and resources towards trying different solutions is more effective. In the long run, building is cheaper than planning and reduces the guesswork towards a better solution. As Danah mentions in this article, the point of ‘Demo or Die’ is to help “it was to help the visitor change their perspective of the world through the lens of the demo.” Demos are a way of expressing the team’s ideas, attitudes, and perspectives. Demos are not supposed to fit the world view for a user, rather challenge those assumptions and compel them to consider a new avenue. Creating ‘impact’, as Dana mentions is one of the most important outcomes from producing demos. I would encourage my team to change their mindset towards demos. Demos do not lead to success or failure, they lead to perspective and impact. Demos lead to a greater product and shows qualities of an even greater team. 
 
 #### Scalability
-Being able to scale this app to accommodate for future user needs and increasing technical and nontechnical requirements is an essential part of this project. A prerequisite to scaling is planning. Great planning will allow the project to scale further. However, setting goals is not enough. OKRs, or objectives and key results is an effective method. According to Jira, OKRs can help push agile teams to ‘peak performance’ and ‘keep a track record of achievements’. This defined method boosts team morale and keeps them motivated to maintain their standard of work. The three pillars are ‘commitment’, ‘accountability’, and ‘regular updates’. One way to keep my team committed and accountable for their personal goals or team goals is by writing them down and sharing them with other members, even if they are not in their team. Sharing goals promotes transparency and trust as well as creating a sense of urgency to meet a deadline. Most importantly, feedback is given upon goal completion which is why learning is the main priority over performance. Receiving this feedback will help my team measure their progress over time and allow the team to achieve higher metrics which translates to scaling. An example of an OKR can be increasing customer acquisition by decreasing customer acquisition cost by 10% through gap analysis between our system and other competitors. Once an OKR has been set, at the end of the deadline, I can score the OKR from a scale of 0.0 to 1.0. According to Jira, 0.7 means that a team has succeeded. 0.0 means ‘we didn’t make any progress’, and 1.0 means ‘we delivered’. I realize that a score of 1.0 is not necessary for every OKR because I prioritize progress over perfection. Every OKR is a step in the learning process and the goal is to always strive for more. To help define OKRs, the MoSCoW prioritization method can be implemented. For each OKR, I need to define Must Haves, Should Haves, Could Haves, Will not Haves. I want my team to mainly focus on the Must Haves in order for successful completion of a task. Maybe a Must Have is generating insights from gap analysis from at least 10 organizations. In order to increase customer acquisition, strategies from other companies must be examined to increase this metric. Without it, this OKR is not achievable. A Will not Have can maybe be building a new feature (or improving an already existing feature) to directly increase customer acquisition. Utilizing the MoSCoW method increases the granularity of my OKRs and provides more accurate estimates. My team is more focused and understands what are the main priorities for the project. Now in order to start the project resource allocation needs to be defined. I may want to allocate 60% of my resources towards Must Haves, 30% towards Should Haves, and 5% towards Could Haves, and 5% towards Will not Haves. These proportions can change mid-project due to the iterative process and the agile nature of our team. According to Adriene Watt’s project management textbook, looking at ‘published estimated data’ is a way to estimate how many resources are needed. I may even use some project management software such as Microsoft Project to help estimate resources and constraints best fit for specific parts of my project. After analyzing published data, I would get a general baseline for how resources are typically allocated which I can use as a starting point for how I allocate resources. I would proceed to engage in ‘three-point estimating’, where I would come up with three different estimates. A ‘realistic estimate that is most likely to occur’, an ‘optimistic one that represents the best-case scenario’, and a ‘pessimistic one that represents the worst-case scenario’. I would then take the average of the three to calculate my final estimate. I can then incorporate this estimate into my OKRs and incorporate my resource planning strategies to allocate resources towards an OKR that will make that OKR successful. To help determine the direction of the OKR, the MoSCoW method will be implemented to pre-determine team priorities. Utilizing these three methods will help scale my project to the next level. 
+Being able to scale this app to accommodate for future user needs and increasing technical and nontechnical requirements is an essential part of this project. A prerequisite to scaling is planning. Great planning will allow the project to scale further. However, setting goals is not enough. OKRs, or objectives and key results is an effective method. According to Jira, OKRs can help push agile teams to ‘peak performance’ and ‘keep a track record of achievements’. This defined method boosts team morale and keeps them motivated to maintain their standard of work. The three pillars are ‘commitment’, ‘accountability’, and ‘regular updates’. One way to keep my team committed and accountable for their personal goals or team goals is by writing them down and sharing them with other members, even if they are not in their team. Sharing goals promotes transparency and trust as well as creating a sense of urgency to meet a deadline. Most importantly, feedback is given upon goal completion which is why learning is the main priority over performance. Receiving this feedback will help my team measure their progress over time and allow the team to achieve higher metrics which translates to scaling. An example of an OKR can be increasing customer acquisition by decreasing customer acquisition cost by 10% through gap analysis between our system and other competitors. Once an OKR has been set, at the end of the deadline, I can score the OKR from a scale of 0.0 to 1.0. According to Jira, 0.7 means that a team has succeeded. 0.0 means ‘we didn’t make any progress’, and 1.0 means ‘we delivered’. I realize that a score of 1.0 is not necessary for every OKR because I prioritize progress over perfection. Every OKR is a step in the learning process and the goal is to always strive for more. To help define OKRs, the MoSCoW prioritization method can be implemented. For each OKR, I need to define Must Haves, Should Haves, Could Haves, Will not Haves. I want my team to mainly focus on the Must Haves in order for successful completion of a task. Maybe a Must Have is generating insights from gap analysis from at least 10 organizations. In order to increase customer acquisition, strategies from other companies must be examined to increase this metric. Without it, this OKR is not achievable. A Will not Have can maybe be building a new feature (or improving an already existing feature) to directly increase customer acquisition. Utilizing the MoSCoW method increases the granularity of my OKRs and provides more accurate estimates. My team is more focused and understands what are the main priorities for the project. 
+
+Now in order to start the project, resource allocation needs to be defined. I may want to allocate 60% of my resources towards Must Haves, 30% towards Should Haves, and 5% towards Could Haves, and 5% towards Will not Haves. These proportions can change mid-project due to the iterative process and the agile nature of our team. According to Adriene Watt’s project management textbook, looking at ‘published estimated data’ is a way to estimate how many resources are needed. I may even use some project management software such as Microsoft Project to help estimate resources and constraints best fit for specific parts of my project. After analyzing published data, I would get a general baseline for how resources are typically allocated which I can use as a starting point for how I allocate resources. I would proceed to engage in ‘three-point estimating’, where I would come up with three different estimates. A ‘realistic estimate that is most likely to occur’, an ‘optimistic one that represents the best-case scenario’, and a ‘pessimistic one that represents the worst-case scenario’. I would then take the average of the three to calculate my final estimate. I can then incorporate this estimate into my OKRs and incorporate my resource planning strategies to allocate resources towards an OKR that will make that OKR successful. To help determine the direction of the OKR, the MoSCoW method will be implemented to pre-determine team priorities. Utilizing these three methods will help scale my project to the next level. 
 
 
 #### Addressing Technical Debt
