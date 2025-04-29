@@ -1,4 +1,4 @@
-Shivam Patel, IS 340 Spring 20245, Link to personal website: https://www.figma.com/proto/vX3F4YvWT8HtO8wexmm4P5/Shivam-Patel's-Portfolio-V2?page-id=0%3A1&type=design&node-id=1-3170&viewport=-748%2C879%2C0.09&t=159LykIwYxWxR3BT-8&scaling=scale-down-width&starting-point-node-id=1%3A3170&disable-default-keyboard-nav=1&hide-ui=1.
+Shivam Patel, IS 340 Spring 20245, Link to personal website: https://www.linkedin.com/in/shivam-patel-13622b238/
 
 
 ## Introduction - CartSync
@@ -20,7 +20,7 @@ Grocery List: Students can view a history of all of their past expenses, who has
 </ul>
 
 ---
-<em> Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students. </em>
+<em> **Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students.** </em>
 ---
 
 #### Target Audience
@@ -44,94 +44,76 @@ Grocery List: Students can view a history of all of their past expenses, who has
 
 ##### Phase 1:
 ###### Software + Onboarding <b> (Weeks 0-4) </b>
-<ul>
 --Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
 --Explaining the scope of the project to the team to align effort and vision. 
 Answer any questions regarding the scope of the project and being receptive to changes to the scope.
-</ul>
 
 ---
 
 ##### Phase 2:
 ###### User Research<b> (Weeks 4-9) </b>
-<ul>
 Conduct surveys and user interviews to gather feedback about potential features and interactions within the app. 
 Perform a competitive analysis and gap analysis to understand the current market and how our app can stand out.
-</ul>
 
 ---
 
 ##### Phase 3:
 ###### Design<b> (Weeks 9-12) </b>
-<ul>
-Ideate and narrow down potential solutions based on user feedback.
-Create an information architecture diagram that combines the brainstormed features into a cohesive user flow.
-Start sketching screens to provide a visual representation of the design.
-Work on designing low-fidelity wireframes to understand placement, sizing, and positioning of design elements. 
-    -No color or stylistic elements are needed at this stage. 
-    -Sole purpose is to maintain clarity in user flow and allow ability to easily change designs without undertaking intensive revisions.
-</ul>
+- Ideate and narrow down potential solutions based on user feedback.
+- Create an information architecture diagram that combines the brainstormed features into a cohesive user flow.
+- Start sketching screens to provide a visual representation of the design.
+- Work on designing low-fidelity wireframes to understand placement, sizing, and positioning of design elements. 
+    - No color or stylistic elements are needed at this stage. 
+    - Sole purpose is to maintain clarity in user flow and allow ability to easily change designs without undertaking intensive revisions.
 
 ---
 
 ##### Phase 4:
 ###### User Testing<b> (Weeks 12-15) </b>
-<ul>
-Conduct user tests with at least 10-15 users to gain user behavior and attitude insights. 
-Depending on testing results, revisit the design or research phase and make necessary changes. A/B Testing is another option.
-</ul>
+- Conduct user tests with at least 10-15 users to gain user behavior and attitude insights. 
+- Depending on testing results, revisit the design or research phase and make necessary changes. A/B Testing is another option.
 
 ---
 
 ##### Phase 5:
 ###### Front-End Development<b> (Weeks 15-19) </b>
-<ul>
-Review functional requirements with designers to ensure cohesiveness in app functionality and alignment in expectations.
-Using mobile UI components and frameworks, user interfaces will be developed alongside functionality between screens.
-Conduct testing on a regular basis.
-</ul>
+- Review functional requirements with designers to ensure cohesiveness in app functionality and alignment in expectations.
+- Using mobile UI components and frameworks, user interfaces will be developed alongside functionality between screens.
+- Conduct testing on a regular basis.
 
 ---
 
 ##### Phase 6:
 ###### Back-End Development<b> (Weeks 19-25) </b>
-<ul>
-Review functional requirements with designers and front-end developers to ensure cohesiveness in app functionality and alignment in expectations.
-Set up MongoDB to handle user account information and functionality.
-Set up pantry inventory scanning feature.
-Set up easy sign-in (prevent signing in every time) using OAUTH.
-Configure AI for recipe tracker.
-Deploy AWS cloud to host app.
-Review app with the team and release.
-</ul>
+- Review functional requirements with designers and front-end developers to ensure cohesiveness in app functionality and alignment in expectations.
+- Set up MongoDB to handle user account information and functionality.
+- Set up pantry inventory scanning feature.
+- Set up easy sign-in (prevent signing in every time) using OAUTH.
+- Configure AI for recipe tracker.
+- Deploy AWS cloud to host app.
+- Review app with the team and release.
 
 ---
 
 ##### Phase 7:
 ###### Beta Testing<b> (Weeks 25-28) </b>
-<ul>
-Release the app to a small group of users (~15 users) and receive quick feedback that can be implemented before launch.
-Create social media account and promotional material to gain traction and reach.
-</ul>
+- Release the app to a small group of users (~15 users) and receive quick feedback that can be implemented before launch.
+- Create social media account and promotional material to gain traction and reach.
 
 ---
 
 ##### Phase 8:
 ###### Back-End Development<b> (Weeks 28-29) </b>
-<ul>
-Create a launch strategy 
-Release app on the app store.
-</ul>
+- Create a launch strategy 
+- Release app on the app store.
 
 ---
 
 ##### Phase 9:
 ###### Back-End Development<b> (Weeks 19-25) </b>
-<ul>
-Monitor app KPIS (Key Performance Metrics).
-Monitor user feedback
-Continue to update the app or/and create new features based on feedback and latest trends in the market using PostHog.
-</ul>
+- Monitor app KPIS (Key Performance Metrics).
+- Monitor user feedback
+- Continue to update the app or/and create new features based on feedback and latest trends in the market using PostHog.
 
 ---
 
@@ -163,18 +145,15 @@ Now in order to start the project, resource allocation needs to be defined. I ma
 Throughout this project, technical debt is minimized throughout this project. The tools that I decided to use are industry standard and are popular for being used for app development. For design, Figma is one of the best design tools on the market. Most companies such as Spotify, Universal Studios, and AirBnB use Figma. Figma is far above its competitors and will continue to remain relevant in the industry for a long period of time with little chances of becoming replaced, therefore using Figma reduces technical debt. React is another framework that is popular for developers to use for coding the front-end interface of an application. It is one of the most popular Javascript libaries to use and has numerous UI components to choose from. React is used by companies such as Facebook and Netflix. However, React can be hard to learn without any previous JS experience. Assuming the developers I hire have JS experience, this additional learning curve may decrease productivity, lower code quality, and hence lead to higher technical debt. However, technical debt cannot be completely eliminated. 
 
 #### Challenges
-<ul>
 Over time, certain coding practices and documentation will become outdated. For design, design systems and components will need to be updated to support newer versions. Existing design processes will need to be revisited and edited to create a new design playbook. Refactoring code and reevaluating design processes are timely and potentially costly. To prevent this, my team will optimize code with AI and hold meetings to review outdated code that needs to be refactored. Documenting these practices will help us to rebuild our codebase and create a more efficient and secure process to address outdated code. For design, considering different design frameworks or incorporating elements from different design systems keeps the design process flexible and agile. Reevaluating and redesigning design systems in phases will reduce the burden on the team to maintain the current designs while slowly migrating to a new design system. 
 
 Another challenge is payment integration. Multiple payment vendors have different priorities for security features. Fraudulent activities are therefore prevalent which is why understanding security features for a specific vendor are important before sharing sensitive data. Documenting these features and validating security measures is essential beforehand. Not only is fraud important to detect, but the ability to report fraud is also a functionality that must be properly supported. While building a payment integration method, choosing the right API integration method that can handle different payment methods is key. Deciding a payment method requires business context and payment infrastructure support. For CartSync, Stripe will be the preferred payment method due to its popularity, user-friendly interface, advanced security features, and wide support for global payments. According to Tranzzo, this increases system interoperability and decreases the likelihood of compatibility issues. Not being able to track incoming and outgoing data from various sources can lead to data fragmentation. Fragmented data opens up the database to vulnerabilities and hacking attacks. Another challenge regarding payment integration is currency. To position CartSync on the global market, global currency support is needed. Transactions may occur across different currencies which leads to different regulations and barriers. One solution suggested by Tranzzo is to “collect, normalize, and merge payment data in a single area”. This data can be stored in a data warehouse or a cloud platform so that data can be queried independently and accessed seamlessly, regardless of currency. 
 
 CartSync also incorporates AI to generate recipes for users based on items in their pantry. It is possible for the AI to hallucinate and generate recipes that are inaccurate or create recipes with items that are not present in a user’s fridge. To account for this, preprocessed training data needs to be present. The data needs to be validated and checked for stray values. To prevent overfitting to training data, feature selection is a simple technique that allows control over features being inputted into the system. I would implement the conventional 80/20 train-test split to maintain model accuracy and control for overfitting of data values. Using the OpenAI Generative AI model, establishing consistent results over time while ensuring these results are statistically significant will be a key marker of success. More importantly, collecting troubleshooting reports from users is key to train the AI model and help it handle edge cases. On the interface, we would make it clear users should always be aware that AI can generate inaccurate results because CartSync seeks to be transparent and build trust with its users. 
-</ul>
+
 
 ### Conclusion      
 CartSync offers a unique value proposition to help college students manage collaborative expenses while tracking their budget simultaneously and seamlessly. Being able to view and split expenses removes unnecessary confrontation and tension between individuals. This allows users to take ownership of their finances and teaches them how to manage their personal wealth. At the same time, CartSync also promotes sustainable decision making and encourages users to learn how to cook. Through open-source contributions and feedback from the community, CarySync can continue to scale and improve its services to help users manage their expenses while being financially independent. 
-
-__Paragraph heading__         
 
 
 ### References     
