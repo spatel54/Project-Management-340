@@ -22,7 +22,7 @@ The purpose of CartSync is to provide an intuitive and satisfying solution for c
 
 
 ---
-<em> **Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students.** </em>
+<em> ***Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students.*** </em>
 ---
 
 #### Target Audience
