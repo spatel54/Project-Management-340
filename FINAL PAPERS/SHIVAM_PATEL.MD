@@ -31,7 +31,7 @@ The purpose of CartSync is to provide an intuitive and satisfying solution for c
 ---
 
 ### Organization Workflow
-| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpg) | 
+| ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.png) | 
 | :--: |
 | <b>Figure 1.</b> Image of a product workflow from research to production. |   
 
