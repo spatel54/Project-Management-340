@@ -3,6 +3,8 @@ Shivam Patel, IS 340 Spring 20245, Link to personal website: https://www.linkedi
 
 ## Introduction - CartSync
 
+---
+
 ### Background
 
 College students living together often struggle to coordinate grocery shopping, leading to overbuying some items and forgetting others, resulting in frustration and extra costs. Students are juggling numerous responsibilities, from academics to extracurricular commitments, leaving them little time to worry about splitting expenses. There are apps that allow students to split expenses, but some features are either behind a paywall, require an ad to proceed further, or the features are too basic. As a student myself, I have personally tried out these apps but I find myself switching between apps to be able to manage my expenses. I forget about expenses that I am supposed to pay for and I have a hard time managing my budget due to the lack of understanding of my personal expenses. This has led to conflicts with my roommates and has strained our relationships at times. Therefore, I am proposing a college expense splitter app called CartSync that is free and leverages AI with a user-centric design made for college students. 
