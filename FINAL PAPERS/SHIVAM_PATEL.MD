@@ -22,20 +22,20 @@ The purpose of CartSync is to provide an intuitive and satisfying solution for c
 
 
 ---
-<em>Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students. </em>
+#### Vision Statement: In essence, the vision for this project is to create a straightforward collaborative budgeting and expense tracking system designed for college students. ####
 ---
 
-#### Target Audience
+### Target Audience
 <b> College Students: </b> This app will cater to students between the ages of 18-24. These students will also have at least 2-3 roommates and are looking for a more hassle free, intuitive way to manage collaborative expenses.  
 
 ---
 
-#### Organization Workflow
+### Organization Workflow
 | ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpg) | 
 | :--: |
 | <b>Figure 1.</b> Image of a product workflow from research to production. |   
 
-#### Organization Workflow with timeline
+### Organization Workflow with timeline
 [Comment_3]: <> (begin your text here)
 
 | ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpeg) | 
@@ -44,23 +44,23 @@ The purpose of CartSync is to provide an intuitive and satisfying solution for c
 
 ---
 
-##### Phase 1:
-###### Software + Onboarding <b> (Weeks 0-4) </b>
+#### Phase 1:
+##### Software + Onboarding <b> (Weeks 0-4) </b>
 --Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
 --Explaining the scope of the project to the team to align effort and vision. 
 Answer any questions regarding the scope of the project and being receptive to changes to the scope.
 
 ---
 
-##### Phase 2:
-###### User Research<b> (Weeks 4-9) </b>
+#### Phase 2:
+##### User Research<b> (Weeks 4-9) </b>
 Conduct surveys and user interviews to gather feedback about potential features and interactions within the app. 
 Perform a competitive analysis and gap analysis to understand the current market and how our app can stand out.
 
 ---
 
-##### Phase 3:
-###### Design<b> (Weeks 9-12) </b>
+#### Phase 3:
+##### Design<b> (Weeks 9-12) </b>
 - Ideate and narrow down potential solutions based on user feedback.
 - Create an information architecture diagram that combines the brainstormed features into a cohesive user flow.
 - Start sketching screens to provide a visual representation of the design.
@@ -70,23 +70,23 @@ Perform a competitive analysis and gap analysis to understand the current market
 
 ---
 
-##### Phase 4:
-###### User Testing<b> (Weeks 12-15) </b>
+#### Phase 4:
+##### User Testing<b> (Weeks 12-15) </b>
 - Conduct user tests with at least 10-15 users to gain user behavior and attitude insights. 
 - Depending on testing results, revisit the design or research phase and make necessary changes. A/B Testing is another option.
 
 ---
 
-##### Phase 5:
-###### Front-End Development<b> (Weeks 15-19) </b>
+#### Phase 5:
+##### Front-End Development<b> (Weeks 15-19) </b>
 - Review functional requirements with designers to ensure cohesiveness in app functionality and alignment in expectations.
 - Using mobile UI components and frameworks, user interfaces will be developed alongside functionality between screens.
 - Conduct testing on a regular basis.
 
 ---
 
-##### Phase 6:
-###### Back-End Development<b> (Weeks 19-25) </b>
+#### Phase 6:
+##### Back-End Development<b> (Weeks 19-25) </b>
 - Review functional requirements with designers and front-end developers to ensure cohesiveness in app functionality and alignment in expectations.
 - Set up MongoDB to handle user account information and functionality.
 - Set up pantry inventory scanning feature.
@@ -97,30 +97,30 @@ Perform a competitive analysis and gap analysis to understand the current market
 
 ---
 
-##### Phase 7:
-###### Beta Testing<b> (Weeks 25-28) </b>
+#### Phase 7:
+##### Beta Testing<b> (Weeks 25-28) </b>
 - Release the app to a small group of users (~15 users) and receive quick feedback that can be implemented before launch.
 - Create social media account and promotional material to gain traction and reach.
 
 ---
 
-##### Phase 8:
-###### Back-End Development<b> (Weeks 28-29) </b>
+#### Phase 8:
+##### Back-End Development<b> (Weeks 28-29) </b>
 - Create a launch strategy 
 - Release app on the app store.
 
 ---
 
-##### Phase 9:
-###### Back-End Development<b> (Weeks 19-25) </b>
+#### Phase 9:
+##### Back-End Development<b> (Weeks 19-25) </b>
 - Monitor app KPIS (Key Performance Metrics).
 - Monitor user feedback
 - Continue to update the app or/and create new features based on feedback and latest trends in the market using PostHog.
 
 ---
 
-#### Strategy
-##### Open-Source
+### Strategy
+#### Open-Source
 Open source is a vital aspect to this project. Starting an open-source community can be intimidating due to the multiple requirements and extensive management required. To initiate this, I would propose a minimum viable community. A minimum viable community would allow me to start an open-source community with a minimal number of members. To start, commsor.com recommends I create a “community member persona”, which allows me to understand who my audience is so that I understand the ‘why’ behind my community. I would aim for around 10-20 members to begin with. I would release a small feature to this community such as expense logging in order to seek feedback. This could be translated to beta-testing. Relying on this core community to gather feedback would be pertinent to gaining insight and making data-driven decisions. This helps me and the team understand customer needs on a deeper level and helps us guide the direction of the project accordingly. Once we start to see success with this community, I would try to scale the community and try to create a developer community according to opensource.com. I would still retain a MVC despite creating a developr community. 
 
 Later, I would first establish community guidelines and establish a vision for the open-source community through a readme file. After communicating with my team, I would create developer docs to inform developers about key details such as API specific information, database architecture, and the data model. I would also set up a Slack or Discord channel with assigned contributor roles so developers can discuss ideas and problems in different channels. Gauging a developer’s interest and experience will determine what contribution role they receive. On GitHub, example issues will be posted to demonstrate an example of a “good first issue”. This sets clear expectations for issue management and streamlines how issues will be addressed. Developers on my team will be monitoring the Slack channel and any Github updates to ensure cohesiveness and a safe environment. 
@@ -143,10 +143,10 @@ Being able to scale this app to accommodate for future user needs and increasing
 Now in order to start the project, resource allocation needs to be defined. I may want to allocate 60% of my resources towards Must Haves, 30% towards Should Haves, and 5% towards Could Haves, and 5% towards Will not Haves. These proportions can change mid-project due to the iterative process and the agile nature of our team. According to Adriene Watt’s project management textbook, looking at ‘published estimated data’ is a way to estimate how many resources are needed. I may even use some project management software such as Microsoft Project to help estimate resources and constraints best fit for specific parts of my project. After analyzing published data, I would get a general baseline for how resources are typically allocated which I can use as a starting point for how I allocate resources. I would proceed to engage in ‘three-point estimating’, where I would come up with three different estimates. A ‘realistic estimate that is most likely to occur’, an ‘optimistic one that represents the best-case scenario’, and a ‘pessimistic one that represents the worst-case scenario’. I would then take the average of the three to calculate my final estimate. I can then incorporate this estimate into my OKRs and incorporate my resource planning strategies to allocate resources towards an OKR that will make that OKR successful. To help determine the direction of the OKR, the MoSCoW method will be implemented to pre-determine team priorities. Utilizing these three methods will help scale my project to the next level. 
 
 
-#### Addressing Technical Debt
+### Addressing Technical Debt
 Throughout this project, technical debt is minimized throughout this project. The tools that I decided to use are industry standard and are popular for being used for app development. For design, Figma is one of the best design tools on the market. Most companies such as Spotify, Universal Studios, and AirBnB use Figma. Figma is far above its competitors and will continue to remain relevant in the industry for a long period of time with little chances of becoming replaced, therefore using Figma reduces technical debt. React is another framework that is popular for developers to use for coding the front-end interface of an application. It is one of the most popular Javascript libaries to use and has numerous UI components to choose from. React is used by companies such as Facebook and Netflix. However, React can be hard to learn without any previous JS experience. Assuming the developers I hire have JS experience, this additional learning curve may decrease productivity, lower code quality, and hence lead to higher technical debt. However, technical debt cannot be completely eliminated. 
 
-#### Challenges
+### Challenges
 Over time, certain coding practices and documentation will become outdated. For design, design systems and components will need to be updated to support newer versions. Existing design processes will need to be revisited and edited to create a new design playbook. Refactoring code and reevaluating design processes are timely and potentially costly. To prevent this, my team will optimize code with AI and hold meetings to review outdated code that needs to be refactored. Documenting these practices will help us to rebuild our codebase and create a more efficient and secure process to address outdated code. For design, considering different design frameworks or incorporating elements from different design systems keeps the design process flexible and agile. Reevaluating and redesigning design systems in phases will reduce the burden on the team to maintain the current designs while slowly migrating to a new design system. 
 
 Another challenge is payment integration. Multiple payment vendors have different priorities for security features. Fraudulent activities are therefore prevalent which is why understanding security features for a specific vendor are important before sharing sensitive data. Documenting these features and validating security measures is essential beforehand. Not only is fraud important to detect, but the ability to report fraud is also a functionality that must be properly supported. While building a payment integration method, choosing the right API integration method that can handle different payment methods is key. Deciding a payment method requires business context and payment infrastructure support. For CartSync, Stripe will be the preferred payment method due to its popularity, user-friendly interface, advanced security features, and wide support for global payments. According to Tranzzo, this increases system interoperability and decreases the likelihood of compatibility issues. Not being able to track incoming and outgoing data from various sources can lead to data fragmentation. Fragmented data opens up the database to vulnerabilities and hacking attacks. Another challenge regarding payment integration is currency. To position CartSync on the global market, global currency support is needed. Transactions may occur across different currencies which leads to different regulations and barriers. One solution suggested by Tranzzo is to “collect, normalize, and merge payment data in a single area”. This data can be stored in a data warehouse or a cloud platform so that data can be queried independently and accessed seamlessly, regardless of currency. 
