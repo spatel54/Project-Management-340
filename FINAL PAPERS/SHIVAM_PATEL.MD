@@ -26,12 +26,10 @@ Grocery List: Students can view a history of all of their past expenses, who has
 #### Organization Workflow
 | ![](https://github.com/spatel54/Project-Management-340/blob/main/FINAL%20PAPERS/IS_340.jpeg) | 
 | :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
+| <b>Figure 1.</b> Image of a product workflow from research to production. |   
 
 
 
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
 #### Subheading
 [Comment_3]: <> (begin your text here)
